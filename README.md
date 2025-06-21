@@ -1,0 +1,1 @@
+# suitescript_mass_delete
