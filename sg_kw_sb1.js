@@ -35,8 +35,8 @@ define(
         }
 
         mapContext.write({
-            key: 'inventory item deletion status: error, reason: ',
-            values: e.name + ': ' + e.message
+            key: 'inventory item deletion status: error ',
+            values: 'no inventory item id'
         });
 
     };
